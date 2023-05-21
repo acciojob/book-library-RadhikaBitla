@@ -6,7 +6,9 @@ background-color:	#f8f8f8;
 {
 	width:70%;
 	align:center;
-	background-color:peachpuff
+	background-color:peachpuff;
+	box-shadow:3px 10px 10px 10px grey;
+	border-radius:10px;
 }
 .book
 {
@@ -15,7 +17,7 @@ background-color:	#f8f8f8;
 img
 {
 }
-h2
+h1
 {
 	text-align:center;
 }
@@ -26,11 +28,11 @@ h2
 	left:0px;
 	background-color:white;
 }
-h3
+h2
 {
 	text-align:left;
 }
-h4
+h3
 {
 	color:#777777;
 	text-align:left;
